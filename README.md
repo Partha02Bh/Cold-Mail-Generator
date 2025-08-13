@@ -15,5 +15,4 @@ No CSVs, no manual data entry — just paste the job link, upload your resume, a
 - Runs fully locally (no external API keys required if using an open-source LLM).
 - Simple **Streamlit web interface**.
 
----
 
